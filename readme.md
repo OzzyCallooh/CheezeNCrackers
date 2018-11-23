@@ -1,12 +1,8 @@
+![Cheez 'n Crackers](Assets/Sprites/both.png) ![Cheez 'n Crackers](Assets/Sprites/both.png) ![Cheez 'n Crackers](Assets/Sprites/both.png) ![Cheez 'n Crackers](Assets/Sprites/both.png) ![Cheez 'n Crackers](Assets/Sprites/both.png) 
+
 # Cheez 'n Crackers
 
-![Cheez 'n Crackers](Assets/Sprites/both.png)
-
 This is a tic-tac-toe game made in Unity. Instead of X's and O's, it's Cheese and Crackers! It's a reference to *Pajama Sam: No Need To Hide When It's Dark Outside*.
-
-## Preview
-
-![A screenshot of the game](Screenshot.jpg)
 
 ## Instructions
 
@@ -26,6 +22,10 @@ This game can be built using Unity 2018.2.16f1 or newer. It may or may not be bu
 * Winner/tie detection
 * Animations
 * Mobile compatible
+
+## Preview
+
+![A screenshot of the game](Screenshot.jpg)
 
 ## Credits
 
